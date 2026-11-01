@@ -1,0 +1,2 @@
+python-telegram-bot>=21.0
+edge-tts>=6.1.0
